@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565696364582",
+    "project_id": "loginphonebook",
+    "storage_bucket": "loginphonebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565696364582:android:9451be91f13b01836ca6e7",
+        "android_client_info": {
+          "package_name": "com.example.pohonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565696364582-kahsv43ibdeos0spcsrcml12qo2i61i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-IJ8FKWqUzvn-AP8_K863bO6NGGRxv5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565696364582-kahsv43ibdeos0spcsrcml12qo2i61i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
